@@ -1,0 +1,348 @@
+Cell,,Gene,baseMean,log2FoldChange,lfcSE,stat,pvalue,padj,MitoPathway
+CTB,29,UCP1,60.25101078,2.269586349,0.548453802,4.138154097,3.50E-05,0.00082704,Small_molecule_transport; SLC25A_family
+CTB,61,SLC25A16,481.6425169,1.053101335,0.34833718,3.023224033,0.00250097,0.024616031,Small_molecule_transport; SLC25A_family
+EVT,134,SFXN2,15.06878099,-2.706823267,0.972178046,-2.784287588,0.005364545,0.027366952,Small_molecule_transport; Sideroflexins
+STB,14,MICU3,54.2559345,2.182057509,0.687860046,3.172240517,0.001512677,0.036304241,Small_molecule_transport; Calcium_uniporter; Signaling; Calcium_homeostasis; Calcium_cycle; EF_hand_proteins
+CTB,91,MCUB,1540.502703,-1.164431483,0.253779311,-4.588362534,4.47E-06,0.000131911,Small_molecule_transport; Calcium_uniporter; Signaling; Calcium_homeostasis; Calcium_cycle
+EVT,212,MCUB,255.1927608,-3.24434873,0.394360831,-8.226853359,1.92E-16,1.79E-14,Small_molecule_transport; Calcium_uniporter; Signaling; Calcium_homeostasis; Calcium_cycle
+EVT,107,ABCD3,108.5081884,1.091904013,0.38662221,2.824214402,0.004739667,0.024415064,Small_molecule_transport; ABC_transporters
+CTB,47,PINK1,565.5073701,1.341744823,0.404574988,3.316430482,0.000911753,0.012024429,Signaling; Mitochondrial_dynamics_and_surveillance; Mitophagy; Autophagy
+STB,15,PINK1,82.74285984,1.987067041,0.655660382,3.030634603,0.002440404,0.049578794,Signaling; Mitochondrial_dynamics_and_surveillance; Mitophagy; Autophagy
+EVT,1,PINK1,931.5263415,3.632272411,0.361539551,10.04668065,9.50E-24,5.02E-21,Signaling; Mitochondrial_dynamics_and_surveillance; Mitophagy; Autophagy
+EVT,9,IFI27,6140.843657,3.869868348,0.471013019,8.216053893,2.10E-16,1.79E-14,Signaling; Immune_response; Mitochondrial_dynamics_and_surveillance; Apoptosis
+CTB,45,PRKACA,193.9090473,1.280457263,0.377393141,3.392900202,0.000691568,0.009801828,Signaling; cAMPPKA_signaling
+EVT,45,PRKACA,65.44975176,2.074817423,0.435055853,4.769082889,1.85E-06,3.01E-05,Signaling; cAMPPKA_signaling
+EVT,75,AKAP10,40.9550915,1.857914767,0.529331247,3.509928379,0.000448227,0.003726993,Signaling; cAMPPKA_signaling
+EVT,90,PPIF,817.1805423,1.344006936,0.431479619,3.114879307,0.001840202,0.012030189,Signaling; Calcium_homeostasis; Mitochondrial_permeability_transition_pore
+CTB,50,RHOT1,71.84275813,1.768494076,0.537258319,3.291701611,0.000995832,0.012602018,Signaling; Calcium_homeostasis; EF_hand_proteins; Mitochondrial_dynamics_and_surveillance; Trafficking
+EVT,36,RHOT1,33.15809853,3.341118576,0.641655004,5.207032682,1.92E-07,4.05E-06,Signaling; Calcium_homeostasis; EF_hand_proteins; Mitochondrial_dynamics_and_surveillance; Trafficking
+CTB,33,PPTC7,277.0795665,1.597241425,0.400417877,3.988936345,6.64E-05,0.001411031,Signaling
+EVT,21,PPTC7,138.378815,2.444462041,0.396012067,6.17269585,6.71E-10,2.53E-08,Signaling
+EVT,54,MCRIP2,311.8808489,1.737588582,0.418470918,4.152232581,3.29E-05,0.000373855,Signaling
+EVT,87,BLOC1S1,1420.552711,1.088914593,0.345048609,3.155829539,0.001600424,0.010974333,Signaling
+EVT,121,OCIAD2,424.698742,1.646155716,0.651186694,2.527932051,0.011473656,0.048451881,Signaling
+CTB,41,TOMM20,4111.203302,1.026475612,0.281103361,3.651594946,0.000260617,0.004197509,"Protein_import,_sorting_and_homeostasis; Protein_import_and_sorting; TOM; Mitochondrial_dynamics_and_surveillance"
+EVT,116,TOMM20,2343.5538,1.003866364,0.387243158,2.592341123,0.00953252,0.042653988,"Protein_import,_sorting_and_homeostasis; Protein_import_and_sorting; TOM; Mitochondrial_dynamics_and_surveillance"
+EVT,147,TIMM23,215.5664639,-1.004066748,0.32564269,-3.083338822,0.00204692,0.012712656,"Protein_import,_sorting_and_homeostasis; Protein_import_and_sorting; TIM23_presequence_pathway"
+EVT,172,TIMM50,340.5837014,-1.241631773,0.312878988,-3.968408942,7.24E-05,0.000734672,"Protein_import,_sorting_and_homeostasis; Protein_import_and_sorting; TIM23_presequence_pathway"
+EVT,177,MTX1,165.4207885,-1.667084973,0.396418288,-4.205368478,2.61E-05,0.000305838,"Protein_import,_sorting_and_homeostasis; Protein_import_and_sorting; SAM; Mitochondrial_dynamics_and_surveillance; Intramitochondrial_membrane_interactions"
+EVT,91,TIMM10B,100.1981992,1.218175137,0.393633678,3.094692363,0.001970171,0.012533138,"Protein_import,_sorting_and_homeostasis; Protein_import_and_sorting; Protein_homeostasis; Chaperones"
+EVT,157,TIMM8A,163.2746277,-1.242673224,0.379643316,-3.273265121,0.001063127,0.007796265,"Protein_import,_sorting_and_homeostasis; Protein_import_and_sorting; Protein_homeostasis; Chaperones"
+CTB,87,UQCRC1,4471.914138,-1.058523823,0.253929278,-4.168577296,3.07E-05,0.000740493,"Protein_import,_sorting_and_homeostasis; Protein_import_and_sorting; Preprotein_cleavage; OXPHOS; OXPHOS_subunits; Complex_III; CIII_subunits"
+EVT,187,UQCRC1,1289.360434,-1.183721072,0.266132141,-4.447869641,8.67E-06,0.000120504,"Protein_import,_sorting_and_homeostasis; Protein_import_and_sorting; Preprotein_cleavage; OXPHOS; OXPHOS_subunits; Complex_III; CIII_subunits"
+EVT,142,CHCHD4,100.3856675,-1.301863408,0.432111973,-3.012791796,0.002588564,0.015094304,"Protein_import,_sorting_and_homeostasis; Protein_import_and_sorting; MIA40"
+CTB,14,CASP3,1599.305885,1.777287459,0.295544031,6.013613112,1.81E-09,9.64E-08,"Protein_import,_sorting_and_homeostasis; Protein_homeostasis; Proteases; Mitochondrial_dynamics_and_surveillance; Apoptosis"
+EVT,105,LACTB,228.4957698,1.60111428,0.561099338,2.853530868,0.004323633,0.022715205,"Protein_import,_sorting_and_homeostasis; Protein_homeostasis; Proteases; Metabolism; Lipid_metabolism; Phospholipid_metabolism"
+CTB,25,YME1L1,1751.008359,1.759239095,0.384987783,4.569597202,4.89E-06,0.000140391,"Protein_import,_sorting_and_homeostasis; Protein_homeostasis; Proteases"
+CTB,69,NLN,38.59747563,1.846823739,0.665827215,2.773728224,0.005541795,0.043636507,"Protein_import,_sorting_and_homeostasis; Protein_homeostasis; Proteases"
+EVT,17,YME1L1,567.0393035,2.006584751,0.308598683,6.502246637,7.91E-11,3.98E-09,"Protein_import,_sorting_and_homeostasis; Protein_homeostasis; Proteases"
+EVT,99,NLN,19.71979752,2.308802476,0.773035475,2.986670794,0.002820332,0.016098763,"Protein_import,_sorting_and_homeostasis; Protein_homeostasis; Proteases"
+EVT,109,PITRM1,143.5831848,1.10008256,0.398990052,2.75716789,0.005830441,0.028828436,"Protein_import,_sorting_and_homeostasis; Protein_homeostasis; Proteases"
+EVT,0,FKBP10,676.9968737,3.288244118,0.299956734,10.96239474,5.79E-28,6.12E-25,"Protein_import,_sorting_and_homeostasis; Protein_homeostasis; Chaperones"
+EVT,163,TRAP1,232.3488425,-1.440214802,0.422877736,-3.405747523,0.000659832,0.005199868,"Protein_import,_sorting_and_homeostasis; Protein_homeostasis; Chaperones"
+CTB,7,CYCS,7895.966179,1.840506146,0.250262156,7.354312667,1.92E-13,1.85E-11,OXPHOS; OXPHOS_subunits; Cytochrome_C; Metabolism; Metals_and_cofactors; Hemecontaining_proteins; Electron_carriers; Cytochromes; Mitochondrial_dynamics_and_surveillance; Apoptosis
+EVT,204,ATP5F1A,2084.303623,-1.909141781,0.353056869,-5.407462504,6.39E-08,1.57E-06,OXPHOS; OXPHOS_subunits; Complex_V; CV_subunits
+CTB,51,COX7B2,390.6744736,6.66304107,2.06844844,3.221274913,0.001276217,0.015593314,OXPHOS; OXPHOS_subunits; Complex_IV; CIV_subunits
+CTB,89,COX7C,7056.224397,-1.219975535,0.281606774,-4.332195278,1.48E-05,0.000382758,OXPHOS; OXPHOS_subunits; Complex_IV; CIV_subunits
+STB,24,COX7C,534.8422322,-1.282159945,0.35151844,-3.647489853,0.000264815,0.00972026,OXPHOS; OXPHOS_subunits; Complex_IV; CIV_subunits
+EVT,40,COX7B2,17.11347773,5.571440537,1.096411753,5.081522086,3.74E-07,7.06E-06,OXPHOS; OXPHOS_subunits; Complex_IV; CIV_subunits
+EVT,136,COX8C,11.48398609,-4.109248837,1.416368693,-2.901256472,0.003716695,0.020024645,OXPHOS; OXPHOS_subunits; Complex_IV; CIV_subunits
+EVT,199,COX7C,1462.817755,-1.47943884,0.287366178,-5.148270574,2.63E-07,5.34E-06,OXPHOS; OXPHOS_subunits; Complex_IV; CIV_subunits
+CTB,80,UQCRQ,10136.40388,-1.02319283,0.307520163,-3.327238188,0.000877114,0.011802175,OXPHOS; OXPHOS_subunits; Complex_III; CIII_subunits
+EVT,179,SDHC,876.1131385,-1.150528572,0.27185126,-4.232198782,2.31E-05,0.000277701,OXPHOS; OXPHOS_subunits; Complex_II; CII_subunits; Metabolism; Carbohydrate_metabolism; TCA_cycle; Metals_and_cofactors; Hemecontaining_proteins
+CTB,96,NDUFS7,1875.686734,-1.653681449,0.280085935,-5.904193116,3.54E-09,1.79E-07,OXPHOS; OXPHOS_subunits; Complex_I; CI_subunits; Metabolism; Metals_and_cofactors; FeScontaining_proteins
+EVT,208,NDUFS7,461.2540962,-1.894874282,0.300925907,-6.296813401,3.04E-10,1.19E-08,OXPHOS; OXPHOS_subunits; Complex_I; CI_subunits; Metabolism; Metals_and_cofactors; FeScontaining_proteins
+CTB,84,NDUFB1,4696.085068,-1.170057957,0.296500466,-3.946226372,7.94E-05,0.001562857,OXPHOS; OXPHOS_subunits; Complex_I; CI_subunits
+STB,25,NDUFB1,276.5804448,-1.360490636,0.36848319,-3.692137585,0.000222377,0.008672707,OXPHOS; OXPHOS_subunits; Complex_I; CI_subunits
+EVT,71,RAB5IF,1283.66677,1.206526132,0.334709664,3.604694645,0.00031252,0.002727449,OXPHOS; OXPHOS_assembly_factors; Respirasome_assembly
+EVT,124,HIGD2A,41.31507279,-1.626505149,0.641779117,-2.534369078,0.011265001,0.047774463,OXPHOS; OXPHOS_assembly_factors; Respirasome_assembly
+STB,30,HIGD1A,361.9112968,-1.805597565,0.393052582,-4.593781211,4.35E-06,0.000301798,OXPHOS; OXPHOS_assembly_factors; Complex_IV; CIV_assembly_factors; Respirasome_assembly
+CTB,12,CMC2,1374.199783,1.509424493,0.242622158,6.22129695,4.93E-10,3.08E-08,OXPHOS; OXPHOS_assembly_factors; Complex_IV; CIV_assembly_factors
+EVT,12,PNKD,583.7674836,2.086537908,0.292686535,7.128916642,1.01E-12,6.68E-11,OXPHOS; OXPHOS_assembly_factors; Complex_IV; CIV_assembly_factors
+EVT,58,COA8,84.8434101,1.796477606,0.444707571,4.039682983,5.35E-05,0.000565208,OXPHOS; OXPHOS_assembly_factors; Complex_IV; CIV_assembly_factors
+EVT,64,CMC1,423.1818971,1.145240949,0.296966073,3.856470663,0.000115036,0.001114476,OXPHOS; OXPHOS_assembly_factors; Complex_IV; CIV_assembly_factors
+CTB,68,TTC19,213.7622557,1.696839046,0.593819725,2.857498621,0.004269945,0.036311611,OXPHOS; OXPHOS_assembly_factors; Complex_III; CIII_assembly_factors
+EVT,67,TTC19,70.72235266,2.500316626,0.660060727,3.788009989,0.000151859,0.00141914,OXPHOS; OXPHOS_assembly_factors; Complex_III; CIII_assembly_factors
+EVT,126,LYRM7,122.2767357,-1.00164962,0.388909828,-2.57553178,0.010008608,0.044071566,OXPHOS; OXPHOS_assembly_factors; Complex_III; CIII_assembly_factors
+EVT,108,SDHAF1,196.608208,1.042601879,0.37386718,2.78869592,0.005292073,0.027128295,OXPHOS; OXPHOS_assembly_factors; Complex_II; CII_assembly_factors
+CTB,83,DMAC1,1218.949379,-1.04793692,0.284892485,-3.678359291,0.000234739,0.003838888,OXPHOS; OXPHOS_assembly_factors; Complex_I; CI_assembly_factors
+EVT,57,TIMMDC1,948.3686688,1.097370681,0.266887899,4.111728873,3.93E-05,0.000431978,OXPHOS; OXPHOS_assembly_factors; Complex_I; CI_assembly_factors
+EVT,66,NDUFAF8,657.8151145,1.351030359,0.352642771,3.831158531,0.000127541,0.001202532,OXPHOS; OXPHOS_assembly_factors; Complex_I; CI_assembly_factors
+EVT,156,NDUFAF4,183.884518,-1.19650019,0.367102425,-3.259308867,0.00111684,0.008077966,OXPHOS; OXPHOS_assembly_factors; Complex_I; CI_assembly_factors
+EVT,168,DMAC1,330.5432145,-1.169009775,0.319119403,-3.663236284,0.000249049,0.002247823,OXPHOS; OXPHOS_assembly_factors; Complex_I; CI_assembly_factors
+EVT,201,DMAC2,215.7991152,-1.754662432,0.329572792,-5.324051236,1.01E-07,2.19E-06,OXPHOS; OXPHOS_assembly_factors; Complex_I; CI_assembly_factors
+CTB,100,ARMCX3,602.1453873,-3.258779598,0.410419333,-7.940122064,2.02E-15,2.68E-13,Mitochondrial_dynamics_and_surveillance; Trafficking
+EVT,150,ARMCX1,12.23538671,-5.095043904,1.640109836,-3.106526034,0.001892996,0.012263829,Mitochondrial_dynamics_and_surveillance; Trafficking
+EVT,203,ARMCX3,166.9264078,-3.509707045,0.651080001,-5.390592618,7.02E-08,1.65E-06,Mitochondrial_dynamics_and_surveillance; Trafficking
+EVT,60,FKBP8,1789.459212,1.043325988,0.261542335,3.989128516,6.63E-05,0.000686571,Mitochondrial_dynamics_and_surveillance; Organelle_contact_sites; Mitophagy; Autophagy
+STB,17,RMDN3,85.31279176,-1.364795177,0.447613654,-3.049047241,0.002295684,0.049396782,Mitochondrial_dynamics_and_surveillance; Organelle_contact_sites
+EVT,62,AHCYL1,375.9119818,1.123027298,0.289133175,3.884117753,0.000102702,0.001018674,Mitochondrial_dynamics_and_surveillance; Organelle_contact_sites
+CTB,60,NIPSNAP1,150.485586,1.399326076,0.45754134,3.058359875,0.002225521,0.0223182,Mitochondrial_dynamics_and_surveillance; Mitophagy; Autophagy
+EVT,63,VPS13D,75.33697454,1.641161717,0.424551224,3.865638882,0.000110799,0.001083366,Mitochondrial_dynamics_and_surveillance; Mitophagy; Autophagy
+CTB,54,MFN1,310.4075411,1.122483914,0.353315538,3.177001269,0.001488064,0.017077333,Mitochondrial_dynamics_and_surveillance; Fusion; Organelle_contact_sites
+EVT,79,MFN1,148.1231051,1.398099532,0.405994704,3.443639825,0.00057394,0.004556995,Mitochondrial_dynamics_and_surveillance; Fusion; Organelle_contact_sites
+EVT,115,OPA1,102.9185144,1.022833931,0.383924608,2.664153092,0.007718243,0.035436802,Mitochondrial_dynamics_and_surveillance; Fusion; Cristae_formation
+EVT,6,SPIRE1,65.87033007,5.331922522,0.605375229,8.807632464,1.28E-18,1.69E-16,Mitochondrial_dynamics_and_surveillance; Fission; Organelle_contact_sites
+CTB,65,MIEF2,268.0705282,1.000983626,0.345544852,2.896826913,0.003769577,0.033116198,Mitochondrial_dynamics_and_surveillance; Fission
+EVT,48,FIS1,2747.566662,1.443954315,0.322134365,4.482459719,7.38E-06,0.000105297,Mitochondrial_dynamics_and_surveillance; Fission
+EVT,61,MIEF2,100.2290456,1.887511096,0.474055498,3.981624736,6.84E-05,0.000701735,Mitochondrial_dynamics_and_surveillance; Fission
+EVT,77,DNM1L,403.6595906,1.036572376,0.297657609,3.482431979,0.000496881,0.004067495,Mitochondrial_dynamics_and_surveillance; Fission
+EVT,186,MTFP1,383.3686236,-1.364592009,0.310997662,-4.387788639,1.15E-05,0.000157041,Mitochondrial_dynamics_and_surveillance; Fission
+EVT,207,MTFR2,85.52906313,-3.21483298,0.530746023,-6.057196549,1.39E-09,4.88E-08,Mitochondrial_dynamics_and_surveillance; Fission
+EVT,47,NBR1,187.9488303,1.583233426,0.351631439,4.502536605,6.71E-06,9.71E-05,Mitochondrial_dynamics_and_surveillance; Autophagy
+CTB,1,PMAIP1,10825.51635,3.419762425,0.395129968,8.654778682,4.94E-18,1.75E-15,Mitochondrial_dynamics_and_surveillance; Apoptosis
+CTB,5,BCL2L11,253.5582372,2.940524144,0.369163003,7.96538147,1.65E-15,2.50E-13,Mitochondrial_dynamics_and_surveillance; Apoptosis
+CTB,6,BCL2A1,151.5657951,4.308904923,0.562159274,7.664918328,1.79E-14,2.11E-12,Mitochondrial_dynamics_and_surveillance; Apoptosis
+CTB,11,BBC3,280.6554459,3.709020983,0.551986799,6.719401598,1.82E-11,1.21E-09,Mitochondrial_dynamics_and_surveillance; Apoptosis
+CTB,18,MCL1,4531.808615,1.787556836,0.314935361,5.675948325,1.38E-08,5.64E-07,Mitochondrial_dynamics_and_surveillance; Apoptosis
+CTB,30,BNIP3L,60.48151914,2.916377823,0.707660604,4.121153282,3.77E-05,0.000871153,Mitochondrial_dynamics_and_surveillance; Apoptosis
+CTB,32,BCL2,414.9934783,2.019885863,0.505093281,3.999035306,6.36E-05,0.001386919,Mitochondrial_dynamics_and_surveillance; Apoptosis
+CTB,75,BOK,31.82707097,-2.884133551,0.990572865,-2.911581423,0.003596042,0.032122625,Mitochondrial_dynamics_and_surveillance; Apoptosis
+STB,4,PMAIP1,1215.647983,2.757881269,0.512582447,5.380366193,7.43E-08,9.28E-06,Mitochondrial_dynamics_and_surveillance; Apoptosis
+STB,6,BCL2A1,58.09484494,4.254628498,0.852619003,4.990069989,6.04E-07,5.38E-05,Mitochondrial_dynamics_and_surveillance; Apoptosis
+STB,16,BCL2L11,20.10080519,2.430436673,0.802695378,3.027844361,0.002463049,0.049578794,Mitochondrial_dynamics_and_surveillance; Apoptosis
+EVT,29,BCL2A1,50.02221235,3.476838715,0.604683921,5.749844822,8.93E-09,2.48E-07,Mitochondrial_dynamics_and_surveillance; Apoptosis
+EVT,44,BBC3,73.60706862,2.397145089,0.501257981,4.782258202,1.73E-06,2.86E-05,Mitochondrial_dynamics_and_surveillance; Apoptosis
+EVT,55,BCL2L11,69.22874932,1.934309203,0.468588063,4.127952369,3.66E-05,0.000411175,Mitochondrial_dynamics_and_surveillance; Apoptosis
+EVT,74,MCL1,2061.42818,1.10923471,0.314840842,3.523160155,0.000426434,0.003602511,Mitochondrial_dynamics_and_surveillance; Apoptosis
+EVT,93,BNIP3L,42.89814793,1.560064781,0.511418634,3.050465271,0.002284871,0.013866804,Mitochondrial_dynamics_and_surveillance; Apoptosis
+EVT,97,SEPTIN4,6.307878497,4.024071855,1.336332256,3.011280942,0.00260148,0.015094304,Mitochondrial_dynamics_and_surveillance; Apoptosis
+EVT,185,TIMM21,134.5099616,-1.615958573,0.369094306,-4.378172584,1.20E-05,0.000158612,"Mitochondrial_central_dogma; Translation; Translation_factors; Protein_import,_sorting_and_homeostasis; Protein_import_and_sorting; TIM23_presequence_pathway; OXPHOS; OXPHOS_assembly_factors; Complex_IV; CIV_assembly_factors"
+CTB,72,COX14,106.9967571,-1.390797147,0.495315276,-2.807902791,0.004986528,0.040156658,Mitochondrial_central_dogma; Translation; Translation_factors; OXPHOS; OXPHOS_assembly_factors; Complex_IV; CIV_assembly_factors
+CTB,78,COA3,180.7411273,-1.269257367,0.405232913,-3.132167513,0.001735208,0.018590032,Mitochondrial_central_dogma; Translation; Translation_factors; OXPHOS; OXPHOS_assembly_factors; Complex_IV; CIV_assembly_factors
+EVT,141,COA3,60.60749792,-1.436638933,0.483427423,-2.971777904,0.002960808,0.016719856,Mitochondrial_central_dogma; Translation; Translation_factors; OXPHOS; OXPHOS_assembly_factors; Complex_IV; CIV_assembly_factors
+EVT,117,GFM2,135.5587098,1.044639655,0.406827485,2.567770599,0.010235487,0.04482194,Mitochondrial_central_dogma; Translation; Translation_factors
+EVT,200,MRRF,143.6913939,-2.179153512,0.419453555,-5.195220032,2.04E-07,4.23E-06,Mitochondrial_central_dogma; Translation; Translation_factors
+CTB,90,OXA1L,970.3361803,-1.227385655,0.273676151,-4.484810424,7.30E-06,0.000204149,"Mitochondrial_central_dogma; Translation; Protein_import,_sorting_and_homeostasis; Protein_import_and_sorting; OXA"
+STB,19,OXA1L,45.76547183,-1.619649829,0.527221176,-3.07205003,0.002125941,0.04853196,"Mitochondrial_central_dogma; Translation; Protein_import,_sorting_and_homeostasis; Protein_import_and_sorting; OXA"
+EVT,162,OXA1L,357.417812,-1.486099467,0.441129211,-3.368853003,0.000754817,0.005904344,"Mitochondrial_central_dogma; Translation; Protein_import,_sorting_and_homeostasis; Protein_import_and_sorting; OXA"
+CTB,59,CARS2,423.5890052,1.423939533,0.465526411,3.058772816,0.002222456,0.0223182,Mitochondrial_central_dogma; Translation; mttRNA_synthetases
+CTB,76,VARS2,149.5808658,-1.265360448,0.406172875,-3.115324842,0.001837424,0.018962933,Mitochondrial_central_dogma; Translation; mttRNA_synthetases
+EVT,11,RARS2,667.1258646,2.067809126,0.283429125,7.295683275,2.97E-13,2.09E-11,Mitochondrial_central_dogma; Translation; mttRNA_synthetases
+EVT,56,CARS2,147.4173724,1.781693045,0.432905207,4.115665551,3.86E-05,0.00042914,Mitochondrial_central_dogma; Translation; mttRNA_synthetases
+EVT,129,GATB,67.69073732,-1.19170284,0.443947484,-2.684332909,0.00726747,0.033686606,Mitochondrial_central_dogma; Translation; mttRNA_synthetases
+EVT,155,PARS2,25.47440027,-2.655338502,0.817291416,-3.248949459,0.001158321,0.008320997,Mitochondrial_central_dogma; Translation; mttRNA_synthetases
+CTB,64,RBFA,44.8631912,1.781941012,0.599479643,2.972479607,0.002954048,0.027305682,Mitochondrial_central_dogma; Translation; Mitochondrial_ribosome_assembly
+EVT,110,MTG2,72.52761927,1.127745169,0.411015839,2.74379978,0.006073257,0.029419079,Mitochondrial_central_dogma; Translation; Mitochondrial_ribosome_assembly
+EVT,173,MTERF3,81.46537755,-1.817951658,0.444938758,-4.085846933,4.39E-05,0.000468441,Mitochondrial_central_dogma; Translation; Mitochondrial_ribosome_assembly
+CTB,17,MRPS6,6465.996635,1.459228013,0.256662159,5.685403805,1.31E-08,5.55E-07,Mitochondrial_central_dogma; Translation; Mitochondrial_ribosome
+CTB,27,MRPL18,3071.381878,1.226037431,0.282489833,4.3401117,1.42E-05,0.000378455,Mitochondrial_central_dogma; Translation; Mitochondrial_ribosome
+CTB,39,DAP3,181.2489971,1.325555219,0.345889671,3.832306453,0.000126947,0.002212216,Mitochondrial_central_dogma; Translation; Mitochondrial_ribosome
+CTB,86,MRPL24,1256.370447,-1.175224609,0.293967127,-3.997809629,6.39E-05,0.001386919,Mitochondrial_central_dogma; Translation; Mitochondrial_ribosome
+CTB,94,MRPL28,129.5393251,-2.076959423,0.400659171,-5.183855934,2.17E-07,7.97E-06,Mitochondrial_central_dogma; Translation; Mitochondrial_ribosome
+CTB,97,MRPL23,1270.702517,-2.014345402,0.329672466,-6.110141451,9.95E-10,5.88E-08,Mitochondrial_central_dogma; Translation; Mitochondrial_ribosome
+STB,2,MRPS6,506.5176557,2.304696921,0.368639253,6.251903191,4.05E-10,8.43E-08,Mitochondrial_central_dogma; Translation; Mitochondrial_ribosome
+STB,5,MRPL18,213.3901201,2.035622964,0.395196569,5.15091254,2.59E-07,2.70E-05,Mitochondrial_central_dogma; Translation; Mitochondrial_ribosome
+STB,21,MRPL23,60.07479975,-1.822496902,0.552385344,-3.299321609,0.000969188,0.028798731,Mitochondrial_central_dogma; Translation; Mitochondrial_ribosome
+EVT,113,DAP3,45.28566702,1.406526756,0.514612837,2.733174639,0.006272706,0.029837738,Mitochondrial_central_dogma; Translation; Mitochondrial_ribosome
+EVT,119,MRPL43,202.119429,1.261765798,0.494801526,2.550044276,0.010770924,0.046615146,Mitochondrial_central_dogma; Translation; Mitochondrial_ribosome
+EVT,143,MRPL42,107.4607037,-1.160483822,0.382679587,-3.032520835,0.002425204,0.014529343,Mitochondrial_central_dogma; Translation; Mitochondrial_ribosome
+EVT,153,MRPS2,286.3978102,-1.085018983,0.345617633,-3.139362346,0.001693159,0.011388384,Mitochondrial_central_dogma; Translation; Mitochondrial_ribosome
+EVT,158,MRPL48,325.5493676,-1.013595826,0.30223151,-3.353706656,0.000797368,0.006057706,Mitochondrial_central_dogma; Translation; Mitochondrial_ribosome
+EVT,164,MRPL39,187.2041974,-1.276187736,0.369951104,-3.449611917,0.000561393,0.004491144,Mitochondrial_central_dogma; Translation; Mitochondrial_ribosome
+EVT,165,MRPL9,435.6186315,-1.06042451,0.305382597,-3.472445782,0.000515739,0.004157409,Mitochondrial_central_dogma; Translation; Mitochondrial_ribosome
+EVT,176,MRPL10,249.191835,-1.384899457,0.330602111,-4.189021822,2.80E-05,0.000325108,Mitochondrial_central_dogma; Translation; Mitochondrial_ribosome
+EVT,182,MRPS27,165.1091695,-1.565473015,0.365375232,-4.284562495,1.83E-05,0.000227474,Mitochondrial_central_dogma; Translation; Mitochondrial_ribosome
+EVT,183,MRPL23,599.5376109,-1.437040355,0.333524971,-4.308643972,1.64E-05,0.000211533,Mitochondrial_central_dogma; Translation; Mitochondrial_ribosome
+EVT,192,MRPL45,241.9940178,-1.538933234,0.334363123,-4.602580627,4.17E-06,6.48E-05,Mitochondrial_central_dogma; Translation; Mitochondrial_ribosome
+EVT,194,MRPL16,272.0403621,-1.554562368,0.329479013,-4.718243968,2.38E-06,3.81E-05,Mitochondrial_central_dogma; Translation; Mitochondrial_ribosome
+EVT,202,MRPL37,441.7739939,-1.661005159,0.311488129,-5.332483013,9.69E-08,2.13E-06,Mitochondrial_central_dogma; Translation; Mitochondrial_ribosome
+EVT,209,MRPL24,354.107383,-2.018845781,0.318832923,-6.331986545,2.42E-10,9.83E-09,Mitochondrial_central_dogma; Translation; Mitochondrial_ribosome
+EVT,169,TBRG4,276.9314398,-1.23395886,0.320636948,-3.848461221,0.000118862,0.001141076,Mitochondrial_central_dogma; mtRNA_metabolism; Polycistronic_mtRNA_processing; mtRNA_stability_and_decay
+CTB,48,YRDC,856.6178958,1.600034195,0.483210159,3.311259429,0.000928771,0.012040038,Mitochondrial_central_dogma; mtRNA_metabolism; mttRNA_modifications
+CTB,66,TRNT1,54.82696499,1.627926552,0.563084078,2.891089655,0.003839086,0.033178441,Mitochondrial_central_dogma; mtRNA_metabolism; mttRNA_modifications
+EVT,80,TRNT1,19.62584748,2.602125217,0.785497883,3.312708123,0.000923974,0.006919972,Mitochondrial_central_dogma; mtRNA_metabolism; mttRNA_modifications
+EVT,161,DUS2,64.5256059,-1.511104121,0.450273031,-3.35597297,0.000790863,0.006057706,Mitochondrial_central_dogma; mtRNA_metabolism; mttRNA_modifications
+EVT,98,NGRN,22.34949383,1.993181827,0.662610711,3.008073661,0.002629094,0.015171166,Mitochondrial_central_dogma; mtRNA_metabolism; mtrRNA_modifications; Translation; Mitochondrial_ribosome_assembly
+CTB,31,RCC1L,46.42728992,2.956204841,0.731113054,4.043430525,5.27E-05,0.001191346,Mitochondrial_central_dogma; mtRNA_metabolism; mtrRNA_modifications
+CTB,93,SLIRP,3914.182222,-1.503878838,0.306877465,-4.900584142,9.56E-07,3.39E-05,Mitochondrial_central_dogma; mtRNA_metabolism; mtRNA_stability_and_decay; Translation
+STB,18,SLIRP,158.3238325,-1.310151354,0.42747505,-3.064860404,0.002177716,0.04853196,Mitochondrial_central_dogma; mtRNA_metabolism; mtRNA_stability_and_decay; Translation
+EVT,193,SLIRP,1046.142863,-1.373767332,0.293645486,-4.678319264,2.89E-06,4.56E-05,Mitochondrial_central_dogma; mtRNA_metabolism; mtRNA_stability_and_decay; Translation
+EVT,39,REXO2,1859.041495,1.342033873,0.263507977,5.092953494,3.53E-07,6.77E-06,Mitochondrial_central_dogma; mtRNA_metabolism; mtRNA_stability_and_decay
+EVT,171,ERAL1,234.9179884,-1.332105283,0.337162528,-3.950929216,7.78E-05,0.000782932,Mitochondrial_central_dogma; mtRNA_metabolism; mtRNA_granules; Translation; Mitochondrial_ribosome_assembly
+EVT,148,FASTKD1,39.95991223,-1.723082991,0.555962916,-3.09927684,0.001939937,0.012415594,Mitochondrial_central_dogma; mtRNA_metabolism; mtRNA_granules; Polycistronic_mtRNA_processing; mtRNA_stability_and_decay
+EVT,122,TFB1M,33.4730203,-1.594046961,0.632052146,-2.522018111,0.01166837,0.048896027,Mitochondrial_central_dogma; mtRNA_metabolism; mtRNA_granules; mtrRNA_modifications; Translation; Mitochondrial_ribosome_assembly
+EVT,146,TRUB2,186.1775743,-1.047732867,0.33981102,-3.083281017,0.002047317,0.012712656,Mitochondrial_central_dogma; mtRNA_metabolism; mtRNA_granules; mtrRNA_modifications
+CTB,92,PPA2,1568.180545,-1.350210381,0.281522584,-4.796099692,1.62E-06,5.55E-05,Mitochondrial_central_dogma; mtDNA_maintenance; mtRNA_metabolism; Translation; Metabolism; Nucleotide_metabolism
+STB,27,PPA2,68.13054202,-2.012797046,0.500216061,-4.023855295,5.73E-05,0.002977161,Mitochondrial_central_dogma; mtDNA_maintenance; mtRNA_metabolism; Translation; Metabolism; Nucleotide_metabolism
+EVT,210,PPA2,400.1255181,-2.486264333,0.390802424,-6.361947067,1.99E-10,8.65E-09,Mitochondrial_central_dogma; mtDNA_maintenance; mtRNA_metabolism; Translation; Metabolism; Nucleotide_metabolism
+EVT,3,ENDOG,1509.545862,4.578550365,0.505026068,9.065968391,1.24E-19,2.61E-17,Mitochondrial_central_dogma; mtDNA_maintenance; mtDNA_stability_and_decay; mtRNA_metabolism; mtRNA_stability_and_decay; Mitochondrial_dynamics_and_surveillance; Apoptosis
+CTB,43,POLG2,280.8451607,1.594610963,0.442961125,3.599889185,0.000318353,0.004904479,Mitochondrial_central_dogma; mtDNA_maintenance; mtDNA_replication; mtDNA_nucleoid
+EVT,81,POLB,73.68042688,1.760222501,0.533162111,3.301477099,0.000961772,0.007152332,Mitochondrial_central_dogma; mtDNA_maintenance; mtDNA_repair
+EVT,195,UNG,143.390276,-1.960211318,0.408668441,-4.796581099,1.61E-06,2.71E-05,Mitochondrial_central_dogma; mtDNA_maintenance; mtDNA_repair
+EVT,205,APEX1,757.4310196,-1.743802756,0.304905926,-5.719150101,1.07E-08,2.90E-07,Mitochondrial_central_dogma; mtDNA_maintenance; mtDNA_repair
+EVT,149,MUTYH,51.96136303,-1.722424242,0.555087408,-3.102978411,0.001915836,0.012336116,Mitochondrial_central_dogma; mtDNA_maintenance
+CTB,37,SLC25A19,142.7896948,1.598454946,0.415245731,3.849419333,0.000118398,0.002133174,Metabolism; Vitamin_metabolism; Vitamin_B1_metabolism; Small_molecule_transport; SLC25A_family
+EVT,118,SLC25A30,12.43936975,2.256627638,0.879845343,2.564800344,0.010323519,0.0448627,Metabolism; Sulfur_metabolism; Small_molecule_transport; SLC25A_family
+STB,28,PAICS,47.34837845,-2.118653742,0.523531307,-4.046852047,5.19E-05,0.002944771,Metabolism; Nucleotide_metabolism; Nucleotide_synthesis_and_processing
+EVT,86,NT5DC2,92.50841779,1.820489025,0.575990548,3.16062309,0.001574321,0.0108659,Metabolism; Nucleotide_metabolism; Nucleotide_synthesis_and_processing
+EVT,103,NME3,522.3701267,1.074392378,0.371714446,2.890370257,0.003847883,0.020522044,Metabolism; Nucleotide_metabolism; Nucleotide_synthesis_and_processing
+EVT,170,AK2,246.6334387,-1.269034853,0.326826532,-3.882900341,0.000103218,0.001018674,Metabolism; Nucleotide_metabolism; Nucleotide_synthesis_and_processing
+EVT,206,PAICS,532.0007846,-2.005963237,0.334421912,-5.998300841,1.99E-09,6.38E-08,Metabolism; Nucleotide_metabolism; Nucleotide_synthesis_and_processing
+CTB,22,SLC25A4,1648.77437,1.143858425,0.244215428,4.683809012,2.82E-06,9.07E-05,Metabolism; Nucleotide_metabolism; Nucleotide_import; Small_molecule_transport; SLC25A_family; Signaling; Calcium_homeostasis; Mitochondrial_permeability_transition_pore
+STB,8,SLC25A4,84.95196233,1.845249008,0.482815238,3.821853297,0.000132452,0.006290736,Metabolism; Nucleotide_metabolism; Nucleotide_import; Small_molecule_transport; SLC25A_family; Signaling; Calcium_homeostasis; Mitochondrial_permeability_transition_pore
+EVT,15,SLC25A4,574.4645585,1.832129345,0.280554524,6.530386033,6.56E-11,3.52E-09,Metabolism; Nucleotide_metabolism; Nucleotide_import; Small_molecule_transport; SLC25A_family; Signaling; Calcium_homeostasis; Mitochondrial_permeability_transition_pore
+EVT,174,SLC25A6,5159.952483,-1.06489681,0.260311545,-4.090855088,4.30E-05,0.000463116,Metabolism; Nucleotide_metabolism; Nucleotide_import; Small_molecule_transport; SLC25A_family; Signaling; Calcium_homeostasis; Mitochondrial_permeability_transition_pore
+CTB,8,SLC25A25,820.5859737,2.932889009,0.40140199,7.30661303,2.74E-13,2.43E-11,Metabolism; Nucleotide_metabolism; Nucleotide_import; Small_molecule_transport; SLC25A_family; Signaling; Calcium_homeostasis; EF_hand_proteins
+STB,10,SLC25A25,74.64826462,2.164486401,0.616847735,3.508947638,0.000449883,0.01477512,Metabolism; Nucleotide_metabolism; Nucleotide_import; Small_molecule_transport; SLC25A_family; Signaling; Calcium_homeostasis; EF_hand_proteins
+EVT,24,SLC25A25,231.8644066,2.882412924,0.477846493,6.032089735,1.62E-09,5.34E-08,Metabolism; Nucleotide_metabolism; Nucleotide_import; Small_molecule_transport; SLC25A_family; Signaling; Calcium_homeostasis; EF_hand_proteins
+CTB,57,SLC25A36,1607.114037,1.028277454,0.325650148,3.157613967,0.00159066,0.017613251,Metabolism; Nucleotide_metabolism; Nucleotide_import; Small_molecule_transport; SLC25A_family
+EVT,83,SLC25A36,338.1557426,1.057305271,0.328600378,3.217602112,0.00129267,0.009223375,Metabolism; Nucleotide_metabolism; Nucleotide_import; Small_molecule_transport; SLC25A_family
+EVT,178,CKMT1B,95.81551172,-1.91810367,0.4560189,-4.206193365,2.60E-05,0.000305838,Metabolism; Nucleotide_metabolism; Creatine_metabolism
+CTB,19,NOCT,272.2696817,2.634800646,0.466353233,5.649796033,1.61E-08,6.32E-07,Metabolism; Metals_and_cofactors; NAD_biosynthesis_and_metabolism
+CTB,46,SIRT4,44.91029936,2.208644617,0.659305091,3.349958384,0.000808237,0.011176721,Metabolism; Metals_and_cofactors; NAD_biosynthesis_and_metabolism
+EVT,89,NOCT,109.7960047,1.410984949,0.448584079,3.145419144,0.00165849,0.011226704,Metabolism; Metals_and_cofactors; NAD_biosynthesis_and_metabolism
+EVT,94,NMNAT3,7.1033528,3.758855389,1.240725107,3.029563413,0.002449075,0.014529343,Metabolism; Metals_and_cofactors; NAD_biosynthesis_and_metabolism
+EVT,41,SLC25A28,100.0112269,2.028874449,0.400646295,5.064004021,4.11E-07,7.61E-06,Metabolism; Metals_and_cofactors; Iron_homeostasis; Small_molecule_transport; SLC25A_family
+EVT,131,FECH,91.27878387,-1.136079756,0.412252409,-2.755786824,0.005855114,0.028828436,Metabolism; Metals_and_cofactors; Heme_synthesis_and_processing; FeScontaining_proteins
+CTB,21,ISCA1,1899.747702,1.172092072,0.247375425,4.738110388,2.16E-06,7.17E-05,Metabolism; Metals_and_cofactors; FeS_cluster_biosynthesis; FeScontaining_proteins
+STB,11,ISCA1,271.1728217,1.332067463,0.410991969,3.241103389,0.00119068,0.033772012,Metabolism; Metals_and_cofactors; FeS_cluster_biosynthesis; FeScontaining_proteins
+EVT,78,ISCA1,622.8171816,1.004608631,0.288820316,3.478317056,0.000504573,0.004098683,Metabolism; Metals_and_cofactors; FeS_cluster_biosynthesis; FeScontaining_proteins
+CTB,26,CHCHD7,820.5313102,1.233883073,0.278673817,4.427696457,9.52E-06,0.000259603,Metabolism; Metals_and_cofactors; Copper_metabolism
+CTB,13,COQ10B,1290.864384,1.807454738,0.300106465,6.022711757,1.72E-09,9.60E-08,Metabolism; Metals_and_cofactors; Coenzyme_Q_metabolism
+EVT,20,COQ10B,596.5615726,2.100618054,0.330407453,6.357659407,2.05E-10,8.65E-09,Metabolism; Metals_and_cofactors; Coenzyme_Q_metabolism
+EVT,140,COQ8A,41.71730423,-1.531929122,0.522796011,-2.93026169,0.003386767,0.018724741,Metabolism; Metals_and_cofactors; Coenzyme_Q_metabolism
+EVT,145,COQ3,47.38765758,-1.661978784,0.539314993,-3.081647655,0.002058584,0.012712656,Metabolism; Metals_and_cofactors; Coenzyme_Q_metabolism
+EVT,65,SLC25A42,22.70973952,2.633633338,0.687182363,3.832510087,0.000126842,0.001202532,Metabolism; Metals_and_cofactors; Coenzyme_A_metabolism; Small_molecule_transport; SLC25A_family
+CTB,81,HSD17B8,344.1143992,-1.44210517,0.419731721,-3.435778377,0.000590854,0.008603807,"Metabolism; Lipid_metabolism; Type_II_fatty_acid_synthesis; Cholesterol,_bile_acid,_steroid_synthesis"
+EVT,132,ACSF3,15.54028473,-6.829450042,2.475474125,-2.758845254,0.0058006,0.028828436,Metabolism; Lipid_metabolism; Type_II_fatty_acid_synthesis
+EVT,27,PRDX6,8458.470084,1.545434472,0.264387265,5.845343839,5.06E-09,1.48E-07,Metabolism; Lipid_metabolism; Phospholipid_metabolism; Detoxification; ROS_and_glutathione_metabolism
+EVT,32,SPTLC2,276.4500496,2.325429115,0.427337595,5.441667527,5.28E-08,1.33E-06,Metabolism; Lipid_metabolism; Phospholipid_metabolism
+EVT,46,SERAC1,20.02627499,3.561086344,0.78194628,4.554131701,5.26E-06,7.94E-05,Metabolism; Lipid_metabolism; Phospholipid_metabolism
+CTB,56,LIAS,81.54047955,1.562353736,0.49291563,3.169616949,0.0015264,0.017079615,Metabolism; Lipid_metabolism; Lipoate_insertion; Metals_and_cofactors; FeScontaining_proteins
+EVT,95,LIAS,27.00659788,2.058210678,0.680159131,3.02607226,0.002477531,0.014616048,Metabolism; Lipid_metabolism; Lipoate_insertion; Metals_and_cofactors; FeScontaining_proteins
+EVT,38,CPT1A,31.74734212,3.168471342,0.617808396,5.128566335,2.92E-07,5.71E-06,Metabolism; Lipid_metabolism; Fatty_acid_oxidation; Metals_and_cofactors; Carnitine_synthesis_and_transport; Carnitine_shuttle
+EVT,138,HADH,187.8289031,-1.069059303,0.368108825,-2.90419363,0.003682004,0.020022765,Metabolism; Lipid_metabolism; Fatty_acid_oxidation; Amino_acid_metabolism; Lysine_metabolism
+CTB,28,ACADM,191.9664788,1.779721501,0.425756623,4.180138146,2.91E-05,0.0007202,Metabolism; Lipid_metabolism; Fatty_acid_oxidation
+EVT,52,ACSL1,46.1717228,2.458887957,0.573112111,4.290413532,1.78E-05,0.0002242,Metabolism; Lipid_metabolism; Fatty_acid_oxidation
+CTB,0,IDI1,5140.132314,3.240894469,0.261551433,12.39104078,2.92E-35,3.11E-32,Metabolism; Lipid_metabolism; Cholesterolassociated
+STB,7,IDI1,727.4370595,1.925895572,0.410535221,4.691182319,2.72E-06,0.000211872,Metabolism; Lipid_metabolism; Cholesterolassociated
+STB,12,FDPS,183.3877571,1.261916142,0.391730279,3.221390354,0.001275703,0.034610367,Metabolism; Lipid_metabolism; Cholesterolassociated
+EVT,22,IDI1,532.3932271,1.884385133,0.310893898,6.061184035,1.35E-09,4.88E-08,Metabolism; Lipid_metabolism; Cholesterolassociated
+CTB,99,CYP11A1,1816.329036,-2.348246768,0.310177939,-7.570644061,3.71E-14,3.95E-12,"Metabolism; Lipid_metabolism; Cholesterol,_bile_acid,_steroid_synthesis; Metals_and_cofactors; Hemecontaining_proteins"
+STB,26,CYP11A1,2169.726486,-1.292575563,0.343433822,-3.763681616,0.00016743,0.006965089,"Metabolism; Lipid_metabolism; Cholesterol,_bile_acid,_steroid_synthesis; Metals_and_cofactors; Hemecontaining_proteins"
+EVT,16,FDX1,4411.313636,3.508377198,0.537448253,6.527841855,6.67E-11,3.52E-09,"Metabolism; Lipid_metabolism; Cholesterol,_bile_acid,_steroid_synthesis; Metals_and_cofactors; Heme_synthesis_and_processing; FeS_cluster_biosynthesis; FeScontaining_proteins; Vitamin_metabolism; Vitamin_D_metabolism"
+EVT,76,TSPO,4561.452943,2.103793931,0.60319694,3.487739726,0.000487122,0.004018757,"Metabolism; Lipid_metabolism; Cholesterol,_bile_acid,_steroid_synthesis"
+CTB,42,GPAT2,14.74860523,6.036069322,1.656928467,3.642926924,0.000269555,0.004276677,Metabolism; Lipid_metabolism; Cardiolipin_synthesis; Phospholipid_metabolism
+EVT,10,GPAT2,53.00332491,5.986171053,0.733612779,8.159851117,3.35E-16,2.53E-14,Metabolism; Lipid_metabolism; Cardiolipin_synthesis; Phospholipid_metabolism
+EVT,50,PNPLA8,415.565279,1.613582672,0.372615388,4.330424143,1.49E-05,0.00019402,Metabolism; Lipid_metabolism; Cardiolipin_synthesis; Phospholipid_metabolism
+EVT,85,AGPAT4,71.54285907,1.531164461,0.479181888,3.195372148,0.001396506,0.009831405,Metabolism; Lipid_metabolism; Cardiolipin_synthesis; Phospholipid_metabolism
+EVT,114,GPAM,26.7072536,1.757016784,0.648579735,2.70902202,0.006748186,0.03160441,Metabolism; Lipid_metabolism; Cardiolipin_synthesis; Phospholipid_metabolism
+CTB,63,ACOT2,182.999293,1.237375831,0.412646565,2.998633541,0.002711933,0.025971032,Metabolism; Lipid_metabolism
+CTB,79,THEM4,347.1110573,-1.002005327,0.305673923,-3.278020307,0.001045379,0.013073384,Metabolism; Lipid_metabolism
+EVT,13,ACOT2,67.30093177,3.354921634,0.507846937,6.606166914,3.94E-11,2.45E-09,Metabolism; Lipid_metabolism
+EVT,34,ACOT9,131.5188036,2.224735363,0.414330092,5.36947571,7.90E-08,1.81E-06,Metabolism; Lipid_metabolism
+EVT,37,ACOT7,309.8423632,1.612478461,0.314035308,5.134704354,2.83E-07,5.63E-06,Metabolism; Lipid_metabolism
+EVT,53,PHYH,276.7963353,1.412502063,0.338137771,4.177297495,2.95E-05,0.000338601,Metabolism; Lipid_metabolism
+CTB,15,TST,375.544853,1.964476477,0.336174075,5.843628721,5.11E-09,2.47E-07,Metabolism; Detoxification; Xenobiotic_metabolism; Sulfur_metabolism
+EVT,51,TST,124.857946,2.122850593,0.493233265,4.303948543,1.68E-05,0.000213466,Metabolism; Detoxification; Xenobiotic_metabolism; Sulfur_metabolism
+CTB,9,DHRS2,303.248192,2.409892418,0.341614004,7.054431001,1.73E-12,1.32E-10,Metabolism; Detoxification; Xenobiotic_metabolism
+CTB,23,CBR3,198.9365238,2.795613524,0.59855856,4.670576467,3.00E-06,9.39E-05,Metabolism; Detoxification; Xenobiotic_metabolism
+CTB,101,ALDH2,531.5882133,-4.560386457,0.380370471,-11.98932832,4.04E-33,2.15E-30,Metabolism; Detoxification; Xenobiotic_metabolism
+STB,3,DHRS2,108.1137808,2.5509552,0.456334723,5.590096633,2.27E-08,3.54E-06,Metabolism; Detoxification; Xenobiotic_metabolism
+STB,20,ALDH2,25.30492864,-2.756680599,0.867862564,-3.176402246,0.00149114,0.036304241,Metabolism; Detoxification; Xenobiotic_metabolism
+EVT,73,CBR3,18.91150022,3.83106132,1.065299754,3.596228485,0.000322864,0.002771908,Metabolism; Detoxification; Xenobiotic_metabolism
+EVT,137,ALDH1B1,159.6137218,-1.250732294,0.430857887,-2.902888245,0.003697385,0.020022765,Metabolism; Detoxification; Xenobiotic_metabolism
+EVT,96,SELENOO,19.16755005,2.20521429,0.729987367,3.020893773,0.002520298,0.014785746,Metabolism; Detoxification; Selenoproteins
+CTB,71,MSRA,210.4837966,1.676663809,0.61647552,2.719757322,0.006532984,0.049960879,Metabolism; Detoxification; ROS_and_glutathione_metabolism; Sulfur_metabolism
+STB,9,MSRB2,122.6093028,1.684191578,0.442490442,3.806164877,0.000141138,0.006290736,Metabolism; Detoxification; ROS_and_glutathione_metabolism; Sulfur_metabolism
+EVT,25,MSRA,110.210766,3.512147567,0.592565716,5.92701784,3.08E-09,9.58E-08,Metabolism; Detoxification; ROS_and_glutathione_metabolism; Sulfur_metabolism
+EVT,30,MSRB2,721.5041472,1.837821554,0.328414445,5.596043607,2.19E-08,5.79E-07,Metabolism; Detoxification; ROS_and_glutathione_metabolism; Sulfur_metabolism
+CTB,16,TXNRD1,1117.133624,2.029407483,0.350543181,5.789322383,7.07E-09,3.27E-07,Metabolism; Detoxification; ROS_and_glutathione_metabolism; Selenoproteins
+EVT,18,TXNRD1,461.4944156,2.505735115,0.387907719,6.459616539,1.05E-10,5.04E-09,Metabolism; Detoxification; ROS_and_glutathione_metabolism; Selenoproteins
+EVT,31,TXNRD2,338.6656108,2.236698592,0.408507309,5.475296389,4.37E-08,1.12E-06,Metabolism; Detoxification; ROS_and_glutathione_metabolism; Selenoproteins
+CTB,3,SOD2,402.0577682,3.012146609,0.360881823,8.346628768,7.02E-17,1.49E-14,Metabolism; Detoxification; ROS_and_glutathione_metabolism
+CTB,40,GSR,622.4734472,2.101598865,0.561293917,3.744203888,0.000180967,0.003005743,Metabolism; Detoxification; ROS_and_glutathione_metabolism
+STB,0,SOD2,106.8848258,3.574333772,0.531952005,6.719278693,1.83E-11,1.14E-08,Metabolism; Detoxification; ROS_and_glutathione_metabolism
+EVT,4,SOD2,491.8561145,3.758888462,0.418712389,8.977256378,2.78E-19,4.89E-17,Metabolism; Detoxification; ROS_and_glutathione_metabolism
+EVT,33,PRDX4,5411.276922,1.74290661,0.322779365,5.399684115,6.68E-08,1.60E-06,Metabolism; Detoxification; ROS_and_glutathione_metabolism
+EVT,42,MSRB3,15.2521469,6.01390199,1.205366455,4.989272737,6.06E-07,1.10E-05,Metabolism; Detoxification; ROS_and_glutathione_metabolism
+EVT,43,GSR,75.32065289,2.472159818,0.508698093,4.859778031,1.18E-06,2.03E-05,Metabolism; Detoxification; ROS_and_glutathione_metabolism
+EVT,88,SOD1,4927.265222,1.043420433,0.331054014,3.151813269,0.0016226,0.011054617,Metabolism; Detoxification; ROS_and_glutathione_metabolism
+EVT,152,PRDX2,713.9629165,-1.022532461,0.328254111,-3.115063682,0.001839052,0.012030189,Metabolism; Detoxification; ROS_and_glutathione_metabolism
+EVT,112,D2HGDH,108.2739198,1.120273546,0.408745494,2.740760605,0.006129715,0.029422632,Metabolism; Carbohydrate_metabolism; TCAassociated
+EVT,189,ABHD11,625.3558647,-1.419946786,0.314899492,-4.509206344,6.51E-06,9.54E-05,Metabolism; Carbohydrate_metabolism; TCAassociated
+CTB,67,SUCLG2,70.45814887,1.407726909,0.4919103,2.861755304,0.00421302,0.036116457,Metabolism; Carbohydrate_metabolism; TCA_cycle; Itaconate_metabolism; Nucleotide_metabolism; Nucleotide_synthesis_and_processing
+EVT,92,SUCLA2,36.56982476,1.989551358,0.648504652,3.067906072,0.002155644,0.013234649,Metabolism; Carbohydrate_metabolism; TCA_cycle; Itaconate_metabolism; Nucleotide_metabolism; Nucleotide_synthesis_and_processing
+CTB,55,IDH3A,41.05966197,1.961995864,0.618432479,3.172530441,0.001511167,0.017079615,Metabolism; Carbohydrate_metabolism; TCA_cycle
+EVT,68,OGDH,125.3249658,1.407968527,0.372587638,3.778892225,0.000157528,0.001459203,Metabolism; Carbohydrate_metabolism; TCA_cycle
+EVT,159,IDH3B,122.2665378,-1.352363092,0.403129603,-3.354660836,0.000794623,0.006057706,Metabolism; Carbohydrate_metabolism; TCA_cycle
+CTB,36,DLD,59.88373584,2.201995708,0.565770545,3.892029603,9.94E-05,0.001853893,Metabolism; Carbohydrate_metabolism; Pyruvate_metabolism; TCA_cycle; Amino_acid_metabolism; Branchedchain_amino_acid_metabolism; Branchedchain_amino_acid_dehydrogenase_complex; Lysine_metabolism; Glycine_metabolism; Glycine_cleavage_system
+CTB,4,PDK4,895.819302,3.893701428,0.474724045,8.202031191,2.36E-16,4.19E-14,Metabolism; Carbohydrate_metabolism; Pyruvate_metabolism
+CTB,70,PDP1,120.7848129,1.382370375,0.500109417,2.764135862,0.005707377,0.044609866,Metabolism; Carbohydrate_metabolism; Pyruvate_metabolism
+STB,1,PDK4,123.2606375,3.476846747,0.535011786,6.498635798,8.11E-11,2.53E-08,Metabolism; Carbohydrate_metabolism; Pyruvate_metabolism
+EVT,69,PDK4,29.07690112,2.882717581,0.779110738,3.700010079,0.000215591,0.001979687,Metabolism; Carbohydrate_metabolism; Pyruvate_metabolism
+EVT,104,PDK3,187.1404013,1.191100355,0.415184322,2.868847139,0.004119708,0.021752061,Metabolism; Carbohydrate_metabolism; Pyruvate_metabolism
+EVT,106,PDPR,47.16533521,1.525575145,0.536050957,2.845951725,0.004427891,0.022920846,Metabolism; Carbohydrate_metabolism; Pyruvate_metabolism
+EVT,133,DLAT,137.4292907,-1.07816652,0.389633576,-2.767129391,0.00565523,0.028573796,Metabolism; Carbohydrate_metabolism; Pyruvate_metabolism
+EVT,125,GOT2,144.9456476,-1.020968129,0.396451325,-2.57526729,0.010016265,0.044071566,Metabolism; Carbohydrate_metabolism; Malateaspartate_shuttle; Amino_acid_metabolism; Glutamate_metabolism; Glyoxylate_metabolism; Kynurenine_metabolism; Sulfur_metabolism
+EVT,197,ACAA2,248.7428924,-1.914565338,0.391824015,-4.886288906,1.03E-06,1.81E-05,Metabolism; Carbohydrate_metabolism; Ketone_metabolism; Lipid_metabolism; Fatty_acid_oxidation; Amino_acid_metabolism; Lysine_metabolism
+CTB,88,ACAT1,521.81375,-1.212551529,0.287566356,-4.21659733,2.48E-05,0.000627717,Metabolism; Carbohydrate_metabolism; Ketone_metabolism; Lipid_metabolism; Fatty_acid_oxidation; Amino_acid_metabolism; Branchedchain_amino_acid_metabolism; Lysine_metabolism
+EVT,191,ACAT1,125.0389179,-2.03219322,0.443044042,-4.586887596,4.50E-06,6.89E-05,Metabolism; Carbohydrate_metabolism; Ketone_metabolism; Lipid_metabolism; Fatty_acid_oxidation; Amino_acid_metabolism; Branchedchain_amino_acid_metabolism; Lysine_metabolism
+EVT,135,BDH1,17.21907493,-7.022737285,2.464057242,-2.850070674,0.004370952,0.022850123,Metabolism; Carbohydrate_metabolism; Ketone_metabolism
+EVT,139,OXCT1,35.10310438,-2.169700498,0.74343536,-2.918479015,0.003517436,0.019345895,Metabolism; Carbohydrate_metabolism; Ketone_metabolism
+CTB,62,GPD2,15.03316438,3.292777183,1.091835276,3.015818646,0.002562865,0.024993811,"Metabolism; Carbohydrate_metabolism; Glycerol_phosphate_shuttle; Electron_carriers; Qlinked_reactions,_other"
+EVT,26,MPC2,771.0992865,2.018229127,0.345073151,5.848699388,4.95E-09,1.48E-07,Metabolism; Carbohydrate_metabolism; Gluconeogenesis; Pyruvate_metabolism; TCAassociated; Small_molecule_transport
+EVT,180,RPIA,439.3438608,-1.544371543,0.362912919,-4.25548792,2.09E-05,0.00025319,Metabolism; Carbohydrate_metabolism
+EVT,111,SFXN3,253.5930013,1.145714275,0.418003197,2.740922277,0.0061267,0.029422632,Metabolism; Amino_acid_metabolism; Serine_metabolism; Vitamin_metabolism; Folate_and_1C_metabolism; Small_molecule_transport; Sideroflexins
+CTB,74,AGXT,34.34237548,-2.92137409,1.027335453,-2.843641853,0.004460115,0.037331514,Metabolism; Amino_acid_metabolism; Serine_metabolism; Glyoxylate_metabolism
+EVT,59,AGXT,319.0865752,2.066868274,0.516117145,4.004649511,6.21E-05,0.000649382,Metabolism; Amino_acid_metabolism; Serine_metabolism; Glyoxylate_metabolism
+EVT,166,ALDH4A1,67.00568838,-2.245470935,0.617010585,-3.639274577,0.000273407,0.002405983,Metabolism; Amino_acid_metabolism; Proline_metabolism; Glyoxylate_metabolism
+EVT,35,PYCR1,917.6759183,2.18089832,0.407854079,5.347251464,8.93E-08,2.01E-06,Metabolism; Amino_acid_metabolism; Proline_metabolism
+EVT,82,ALDH18A1,214.5094367,1.0410198,0.318904276,3.264364508,0.001097099,0.007989909,Metabolism; Amino_acid_metabolism; Proline_metabolism
+EVT,184,ALDH7A1,315.0069273,-1.749547977,0.399686955,-4.377295668,1.20E-05,0.000158612,Metabolism; Amino_acid_metabolism; Lysine_metabolism; Glycine_metabolism; Vitamin_metabolism; Choline_and_betaine_metabolism; Folate_and_1C_metabolism; Detoxification; ROS_and_glutathione_metabolism
+CTB,77,AADAT,35.37328588,-2.286766881,0.730940855,-3.128525194,0.001756859,0.018590032,Metabolism; Amino_acid_metabolism; Lysine_metabolism
+EVT,190,DHTKD1,94.8037425,-2.031726652,0.4483878,-4.531181825,5.87E-06,8.72E-05,Metabolism; Amino_acid_metabolism; Lysine_metabolism
+EVT,211,AADAT,195.4750772,-5.397923553,0.657470832,-8.210133883,2.21E-16,1.79E-14,Metabolism; Amino_acid_metabolism; Lysine_metabolism
+CTB,49,KMO,53.22636521,2.034805861,0.617387048,3.295835032,0.000981296,0.012567685,Metabolism; Amino_acid_metabolism; Kynurenine_metabolism; Metals_and_cofactors; NAD_biosynthesis_and_metabolism
+EVT,130,GRHPR,77.38020668,-1.226966575,0.445940465,-2.751413409,0.005933871,0.028876347,Metabolism; Amino_acid_metabolism; Glyoxylate_metabolism
+EVT,213,LDHB,2574.761893,-3.334331542,0.35224862,-9.465846986,2.91E-21,1.02E-18,Metabolism; Amino_acid_metabolism; Glyoxylate_metabolism
+EVT,175,GLDC,170.2327471,-1.527129378,0.373156671,-4.092461684,4.27E-05,0.000463116,Metabolism; Amino_acid_metabolism; Glycine_metabolism; Glycine_cleavage_system
+CTB,2,GLS,108.4620771,4.547126679,0.53858196,8.442775682,3.10E-17,8.24E-15,Metabolism; Amino_acid_metabolism; Glutamate_metabolism
+STB,29,GPT2,67.73287829,-2.586238777,0.638813619,-4.048502885,5.15E-05,0.002944771,Metabolism; Amino_acid_metabolism; Glutamate_metabolism
+EVT,5,GLS,85.59907712,4.171320491,0.470621827,8.863423357,7.76E-19,1.17E-16,Metabolism; Amino_acid_metabolism; Glutamate_metabolism
+CTB,35,ABAT,32.13573346,2.826295629,0.715846259,3.948188029,7.87E-05,0.001562857,Metabolism; Amino_acid_metabolism; GABA_metabolism; Metals_and_cofactors; FeScontaining_proteins
+STB,13,AKR7A2,161.4259066,1.449752176,0.453160614,3.199201631,0.001378088,0.035830275,Metabolism; Amino_acid_metabolism; GABA_metabolism; Detoxification; Xenobiotic_metabolism
+CTB,85,ADHFE1,115.8655745,-1.564037401,0.396067881,-3.948912487,7.85E-05,0.001562857,Metabolism; Amino_acid_metabolism; GABA_metabolism
+EVT,7,MAOA,934.5164199,3.976639677,0.465539648,8.542000007,1.32E-17,1.55E-15,Metabolism; Amino_acid_metabolism; Catechol_metabolism; Detoxification; Xenobiotic_metabolism
+EVT,19,COMT,1910.946871,2.290716453,0.356366582,6.427977736,1.29E-10,5.94E-09,Metabolism; Amino_acid_metabolism; Catechol_metabolism
+EVT,72,SLC25A44,37.83099932,2.146083477,0.596721525,3.596457289,0.000322581,0.002771908,Metabolism; Amino_acid_metabolism; Branchedchain_amino_acid_metabolism; Small_molecule_transport; SLC25A_family
+CTB,38,PPM1K,294.5351076,1.212107512,0.315884121,3.83719038,0.00012445,0.002204839,Metabolism; Amino_acid_metabolism; Branchedchain_amino_acid_metabolism; Branchedchain_amino_acid_dehydrogenase_complex
+EVT,151,HIBADH,653.332946,-1.088349315,0.349499255,-3.114024706,0.00184554,0.012030189,Metabolism; Amino_acid_metabolism; Branchedchain_amino_acid_metabolism
+EVT,198,BCAT2,154.925423,-2.494599952,0.500872841,-4.980505523,6.34E-07,1.14E-05,Metabolism; Amino_acid_metabolism; Branchedchain_amino_acid_metabolism
+CTB,20,ARG2,2645.487819,1.704690627,0.313935817,5.430060976,5.63E-08,2.14E-06,Metabolism; Amino_acid_metabolism
+EVT,49,SUGCT,66.43806687,2.300588316,0.525040261,4.381736961,1.18E-05,0.000158612,Metabolism; Amino_acid_metabolism
+CTB,10,CRY1,410.6179651,2.289793409,0.326620372,7.010565183,2.37E-12,1.68E-10,0
+CTB,24,HTATIP2,1769.930817,1.252431207,0.268773939,4.659794065,3.17E-06,9.61E-05,0
+CTB,34,NT5DC3,19.30266562,4.674716787,1.181416811,3.956873429,7.59E-05,0.001562857,0
+CTB,44,TMEM65,42.22550457,2.512931204,0.702371094,3.577782776,0.000346521,0.005262173,0
+CTB,52,VWA8,131.3940584,1.271821269,0.396023853,3.211476426,0.001320548,0.01595162,0
+CTB,53,HEBP1,762.5122247,1.062805749,0.332136984,3.199901851,0.001374744,0.016237253,0
+CTB,58,LETM2,49.58837149,2.362368225,0.754032332,3.132980012,0.001730412,0.018590032,0
+CTB,73,FAM185A,145.4964603,-1.018601438,0.362258006,-2.811812085,0.004926327,0.040156658,0
+CTB,82,PEX11B,427.6624777,-1.162212094,0.332221238,-3.498307636,0.000468221,0.007010121,0
+CTB,95,TMEM205,64.96914076,-3.406656267,0.598037989,-5.696387734,1.22E-08,5.42E-07,0
+CTB,98,ARF5,689.1729458,-2.266337361,0.311903803,-7.266142117,3.70E-13,3.02E-11,0
+STB,22,C15orf48,33.19144754,-2.103961242,0.62412292,-3.371068701,0.000748772,0.023361681,0
+STB,23,ARF5,43.34571346,-2.017459302,0.562712556,-3.585239533,0.000336769,0.011674658,0
+EVT,2,TMEM65,85.90553369,4.179357651,0.453115322,9.223606986,2.87E-20,7.58E-18,0
+EVT,8,HEBP1,484.1601545,2.574110852,0.308336682,8.348376961,6.92E-17,7.31E-15,0
+EVT,14,CMC4,274.4648361,2.123642746,0.324640666,6.54151796,6.09E-11,3.52E-09,0
+EVT,23,CRY1,240.7867896,2.383136887,0.393820739,6.051323994,1.44E-09,4.89E-08,0
+EVT,28,LETM2,156.8332046,2.406720534,0.418307922,5.753466309,8.74E-09,2.48E-07,0
+EVT,70,HTATIP2,942.9386924,1.087032141,0.297901451,3.648965578,0.000263298,0.002336497,0
+EVT,84,FAHD2A,64.38182518,1.383122359,0.432185793,3.200295752,0.001372866,0.009729845,0
+EVT,100,PICK1,134.0912194,1.037452128,0.352315783,2.944665496,0.00323304,0.018063969,0
+EVT,101,COMTD1,539.7297371,1.282182418,0.43706348,2.933629729,0.003350236,0.01862026,0
+EVT,102,DMPK,25.99279761,1.943235532,0.667177259,2.912622553,0.003584075,0.019610277,0
+EVT,120,C15orf61,226.846547,1.089503499,0.428872049,2.54039288,0.011072801,0.047339585,0
+EVT,123,ECHDC3,131.2380196,-1.709528794,0.676606144,-2.526623219,0.011516498,0.048451881,0
+EVT,127,HPDL,24.10313882,-2.056785,0.789316443,-2.60578,0.009166532,0.041366912,0
+EVT,128,PXMP4,82.61526621,-1.319466074,0.504993277,-2.612838888,0.008979362,0.040696164,0
+EVT,144,RIDA,108.399117,-1.408526897,0.460459804,-3.058957342,0.002221088,0.013557622,0
+EVT,154,SPRYD4,110.3784682,-1.323097829,0.416395706,-3.177501133,0.001485501,0.010320323,0
+EVT,160,CCDC58,104.1107436,-1.722692306,0.513324602,-3.355951185,0.000790925,0.006057706,0
+EVT,167,CRYZ,69.77608018,-1.711983049,0.469106519,-3.649454823,0.000262797,0.002336497,0
+EVT,181,RTN4IP1,51.98331244,-2.294645724,0.537727437,-4.267302664,1.98E-05,0.000242942,0
+EVT,188,NIPSNAP3A,147.2279318,-1.68534002,0.378636276,-4.451079113,8.54E-06,0.000120299,0
+EVT,196,ARF5,188.3982659,-1.844646793,0.380985947,-4.841771217,1.29E-06,2.19E-05,0
